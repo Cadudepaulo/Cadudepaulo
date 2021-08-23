@@ -1,6 +1,6 @@
 ### 🐱‍👤 Olá! Eu sou o Cadu de Paulo 🖖🏻 
 <div>
-    <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/78bef6dbb074dcd08153b4ed9133bc5f.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+    <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/78bef6dbb074dcd08153b4ed9133bc5f.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   </div>
 
 ##
