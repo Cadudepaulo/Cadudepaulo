@@ -1,4 +1,7 @@
-### 🐱‍👤 Olá! Eu sou o Cadu de Paulo 🖖🏻
+### 🐱‍👤 Olá! Eu sou o Cadu de Paulo 🖖🏻 
+<div>
+    <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/78bef6dbb074dcd08153b4ed9133bc5f.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  </div>
 
 ##
 
@@ -18,6 +21,7 @@
   <img align="center" alt="cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cadu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="cadu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-original.svg">
+
   </div>
 
   ##
