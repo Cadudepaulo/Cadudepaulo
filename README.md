@@ -5,15 +5,15 @@
 
 ##
 
-- 🐱‍🚀 Sou graduando em Ciência da Computação;
-- 🐱‍🐉 Estou aprendendo HTML5, CSS3 e JavaScript;
-- 🐱‍👓 Busco aprender novas habilidades para poder colaborar cada vez mais em novos projetos;
-- 🐱‍💻 Fato curioso: Apesar de ser formado em química, amo a área de programação e desejo poder atuar na mesma;
+- 🐱‍🚀 I'm majoring in Computer Science
+- 🐱‍🐉 I'm learning HTML5, CSS3 and JavaScript
+- 🐱‍👓 I seek to learn new skills to be able to collaborate more and more on new projects
+- 🐱‍💻 Interesting fact: Despite having a degree in chemistry, I love programming and I want to be able to work in the IT field
 
 <div>
   <a href="https://github.com/Cadudepaulo">
   <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api?username=Cadudepaulo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadudepaulo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img border-radius="5px" height="180em" width="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cadudepaulo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
